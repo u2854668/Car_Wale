@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ludobuddy",
+  "private_key_id": "fd0c9d2a10695ed7f33d71e18543630a69e2198e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC30JVVrigsroFy\nxmAkmWcRD3Q+oSJP8Bz8NDaJJ3TD6YUyyJUoqmTk6gKA0oEshCpwAjrX68UYr3yP\nngHw7IBfD+e7bU17SBj1TmJVE23paA2ver63yOOB6a9I30+Kc45NaghzqWidqVqB\nC1LkI1W8PbbUVZ0sg2ebXNE/SgHod2dX4Ki8xqZjobuT7VsuWDkN7w9uvhzUzvXv\nKnAk6Nki21HJIifgQ5V9ywMg4p1ZSARd+0MJUF9NcPE4yBs6itEJMm4EmjO3SLK4\nv/zWkG4wZFKtq4tPtUQcsJJeH+o4BN1LA6xZtHbzrUMomvP8jVSTxmHQfzarOTL8\nUhG4qWJ1AgMBAAECggEAPKTugAQjcQpp3uogEjMiU/ibS4ZyAZmglnzLeVixJ2nF\n7klLHM2K2BN0m/fXck5wid/SdiZtMoXDPMbOsSP1/mcK90VKiN/yjAw+WP8+BgG0\nci62+X+nv9bPY+V5Ip6ZVmUjQLWltE6Jc4W+5VHbGW3rAgb1AhigeBuZVZ4fHwim\nW04K3Qq4wKB3hxUdTCv7+dBUBtAxSvezxQ8sGe8VONe17MsvzLcnCSRmkFnSFVAN\n3Su2b1Um6ppHsTGMhvaN0X70YcCkKxsUw2fIfLlnWQisPDcO4ScJRZ/vJKhUKEl4\ncdkY2dgLWqHncv0RXln3tqQSvMtNieFAAgXQYHx3CQKBgQDqJ9c+S+gAj1+RtyDi\n9RZNhTomHi+WSS5vIpwhMtGnFo+Hmy3MEIalP4+OjOVr3I6Ppk+NP+AWOJsYclOX\nKl2ZK52YWU3oe1BJ5EArRZYJw/aOIvMZApYnX2+xlzFDd/n3JwxkwVJypEzn3qbj\nN8SvD3JQuGteDXjEspPAuXMbgwKBgQDI9n2cCWskJM1NjY8onxCFzxQtHpcYqI0+\nHgzEbkCY78xofsiRbFfyrbjv3mjP18VUQw3FnbsiOeE1oQzltjSAlcCGYaqEEXlw\n7DhCm02+Wnq6qC+vFZH6FpUMxElPlAzhIOScpCQarePxbjlxRRZu55JyN6plo0iK\n2rAy2WjQpwKBgAqN5SvPrBNqYvpkcL0KIwk3ehmBvs9dWRR1UOhGLCEF6U5JdlT+\nYbNNHCFmxGiKNnrPGkLZoDYgMw11CcOEi1d+GcpmLBbQiBvsh9/rcQnbpV9ev+pe\nrXn02Un98KCD5eZ4Ah0AgcDdGwJQjOEtAFaLsbFlvqEspkbnbbWAJmoVAoGASmc4\nSjUSfedCO5xVjGyX6XKpvaq9tltxL7Zgc7l+ISFnRKjsCStbxHWdKvHlTE5OuMu6\npZeoWRukzf46kDHNbm4DQb2XLB5sH+rVSZPGTNui5MiwHtqVmUoTFQ73NYdS3WcY\nPQZod5g59IEis1Uo4RbLmY4SgF7b1Mzyv2DO9bECgYEA2GlFoJMkg9gC7wkiUL2l\nc9BPbbg6fLXZ16YKTnpM2p4W/xC7GsMuZK+E4ZOi96EZ1Lkm5ONp48T6jCuzwYFs\npVHexqlH/x+jeg0VU492r6ilFRKRrimA0cx+qOm/dQYHlIEHlkGeLG6wVrqFF/JE\nBc/mNKlT/R4/kI9eIh22uVI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "daszodex@ludobuddy.iam.gserviceaccount.com",
+  "client_id": "100348882680317192761",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/daszodex%40ludobuddy.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
